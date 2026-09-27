@@ -1,10 +1,9 @@
 ---
 layout: default
 title: About
+nav_order: 2
 ---
 
 # About
 
-This is the second page.
-
-[Back to Home](./)
+This is the About page.
