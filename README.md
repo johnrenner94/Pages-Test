@@ -2,7 +2,7 @@
 
 This is a test site built directly from a GitHub repository.
 
-[About This Site](about.html)
+[About This Site](about.md)
 
 [About This Site](about.html)
 
