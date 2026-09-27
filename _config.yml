@@ -5,14 +5,14 @@ plugins:
   - jekyll-include-cache
 
 title: GitHub Pages Test
-description: Testing a multi-page Jekyll site
-
-minimal_mistakes_skin: "default"
+description: Testing Minimal Mistakes on GitHub Pages
 
 url: "https://johnrenner94.github.io"
 baseurl: "/pages-test"
 
 repository: "johnrenner94/pages-test"
+
+minimal_mistakes_skin: "default"
 
 defaults:
   - scope:
