@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /
+    url: /pages-test/
 
   - title: "About"
-    url: /about.html
+    url: /pages-test/about.html
