@@ -13,3 +13,9 @@ url: "https://johnrenner94.github.io"
 baseurl: "/pages-test"
 
 repository: "johnrenner94/pages-test"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
