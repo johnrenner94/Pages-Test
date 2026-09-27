@@ -2,6 +2,7 @@
 
 This is a test site built directly from a GitHub repository.
 
+[About This Site](about.html)
 ## About
 
 The goal is to see how GitHub Pages and Jekyll themes work without building a separate website from scratch.
