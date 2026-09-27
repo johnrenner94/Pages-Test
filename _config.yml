@@ -1,21 +1,12 @@
-remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
 
 title: GitHub Pages Test
-description: Testing Minimal Mistakes on GitHub Pages
+description: Testing a structured Jekyll site
 
 url: "https://johnrenner94.github.io"
 baseurl: "/pages-test"
 
-repository: "johnrenner94/pages-test"
-
-minimal_mistakes_skin: "default"
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
+search_enabled: true
