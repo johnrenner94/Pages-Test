@@ -1,6 +1,11 @@
+---
+layout: single
+title: Home
+---
+
 # GitHub Pages Test
 
-This is a test site built directly from a GitHub repository.
+This is my test website.
 
 [About](about.html)
 
