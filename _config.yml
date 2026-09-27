@@ -1,4 +1,15 @@
-theme: jekyll-theme-minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 title: GitHub Pages Test
-description: Testing a simple GitHub Pages site with Jekyll
+description: Testing a multi-page Jekyll site
+
+minimal_mistakes_skin: "default"
+
+url: "https://johnrenner94.github.io"
+baseurl: "/pages-test"
+
+repository: "johnrenner94/pages-test"
